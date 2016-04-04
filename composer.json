@@ -10,7 +10,8 @@
         }
     ],
     "require": {
-        "rojtjo/filemaker": "dev-master"
+        "rojtjo/filemaker": "dev-master",
+        "illuminate/support": "~5"
     },
     "autoload": {
         "psr-4": {
